@@ -1,13 +1,11 @@
-Dashboard
+Fire Bird Dashboard for Zooper
 =========
 
-### Current status:
-
-
-[![wercker status](https://app.wercker.com/status/6e0b724d2d1345581aca4e4a0861d456/m "wercker status")](https://app.wercker.com/project/bykey/6e0b724d2d1345581aca4e4a0861d456)
+## Are you wanting to help improve this dashboard then email me at the email address below?
+![](<a href="mailto:support@technologx.com?subject:Wanting to help">support@technologx.com</a>)
 
 
 ### Screenshots:
 
 
-![](http://i.imgur.com/TT2wG9sl.png) ![](http://i.imgur.com/1VR8y13l.png)
+![](http://upicme.technologx.com/images/Screenshot_2016-09-03-23-47-15d013d.png) ![](http://upicme.technologx.com/images/Screenshot_2016-09-03-23-47-241c5d8.png) ![](http://upicme.technologx.com/images/Screenshot_2016-09-03-23-47-43fefa9.png)

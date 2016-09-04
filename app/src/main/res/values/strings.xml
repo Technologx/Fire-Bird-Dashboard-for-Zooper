@@ -4,11 +4,11 @@
     <string name="light">Light Theme</string>
     <string name="dark">Dark Theme</string>
     <string name="close">CLOSE</string>
-    <string name="app_name">DiffroCons</string>
+    <string name="app_name">FireBird</string>
     <string name="action_settings">Settings</string>
     <string name="action_search">Search</string>
     <string name="apply_wall">Set Wallpaper</string>
-    <string name="description">DiffroCons consist of 4 different weather icon sets.</string>
+    <string name="description">Fire Bird Dashboard was created for Zooper weather icons.</string>
     <string name="one_column">One Column</string>
     <string name="two_column">Two Column</string>
     <string name="three_column">Three Column</string>
@@ -25,11 +25,11 @@
 
           v1.0\n\n
 
-        &#8226; Welcome to DiffroCons\n
+        &#8226; Welcome to Fire Bird Dashboard\n
         &#8226; Nothing new\n
    </string>
 
-    <string name="apkfilename">diffrocons.apk</string>
+    <string name="apkfilename">firebirddashzooper.apk</string>
 
 
 </resources>
