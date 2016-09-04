@@ -2,7 +2,7 @@ Fire Bird Dashboard for Zooper
 =========
 
 ## Are you wanting to help improve this dashboard then email me at the email address below?
-support@technologx.com
+## support@technologx.com
 
 
 ### Screenshots:
