@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_5e9fca1ab040f0aaf5ce64c6e371a630d6031440.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.0_09405e0f416086a201bfb5a6d43235beb88d2773.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/picasso-2.5.2_78e947abb3c805be50f8a302fa311c2b6b396f6d.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_aa756d668257581c9b58c4e57f28248d4d20675a.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/library-2.4.0_456d13ee37f93efabba22dd1f2c150306b322b21.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.0_713b424eafceec7b256a901d911796f0aa30a47a.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.2.0_4da3294c6da496938ca135d71339bec9beb72bdb.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.0_cffbc91d34a76e6be88fef009da363fab19a5633.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/uk.co.chrisjenx-calligraphy-2.2.0_be550de0d7aabef6418ff4ce06a64ebe2d7b3d8e.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.afollestad.material-dialogs-core-0.9.0.1_8b1dd3249a4fff939c9b17bfa334533003830543.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_aead16c687513c10af13f390f2572749676574e0.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/support-annotations-24.2.0_ca5cd7eeb278bcd821e59faf73cc1972c588a327.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.daimajia.androidanimations-library-1.1.3_70ee03889f8439cebeb588f44358f65edf0a62b9.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/android-async-http-1.4.9_a0d2831757128dfcaaf033b7f24a2ef364bce116.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_b5c9e176e89113626863acb7445d7cb3ff202a90.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.0_83ea4b56f40a27dd025b5573fc4f9a80310e25ce.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.0_793f80223a6bb27839873f9077d1695684aff5a4.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.0_fdc6b1660fa649a557facdb1975902a700654733.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/httpclient-4.3.6_0318e13d71911acde395fb5561e61c8e1b2fe86a.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.soundcloud.android-android-crop-1.0.1_b31d76c1ddf1ac3e1d6eaad235eae9ab27cabda6.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.0_b0744f81ac1891675bacb59f7a711c4e7522a3a6.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/okio-1.9.0_e1b6655d92e59a2edcabe27ae362aca7e6e2be39.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.7/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/me.zhanghai.android.materialprogressbar-library-1.1.7_d2de98311de256c8c6e12cb2e5db5db10ae2db71.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.7.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60b72370e73355c9f751243d5675a758b92ee90e">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.github.ksoichiro-android-observablescrollview-1.7.0-SNAPSHOT_e1b4b4bb5d656c9d9842244dfdcb3d2edc93acae.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/lib/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/universal-image-loader-1.9.5_c69b91b15408a74338b3cf762235883fa47755f7.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_92083fbea1d074ceb17d60905e7754fb31097d45.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.daimajia.easing-library-1.0.1_d0af804092a2ffa82445bc0847b5a02ba84cc8bd.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-palette-v7-24.2.0_70a46d279ba97623794a1f853c54ad2e25f662bb.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.0_62a9d4cfaa79272298c77f44485f28d3a70eb034.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.1/a4cf4688fe1c7e3a63aa636cc96d013af537768e/commons-collections4-4.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a4cf4688fe1c7e3a63aa636cc96d013af537768e">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/commons-collections4-4.1_128e5d679522122ae6ec75d0f952503e1d6a7f3a.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.0_549ce49b756081919b5e4e42891c3242f887aab7.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_6836cb840f6a2d2606ce153a5c9a818fc9d56009.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.melnykov-floatingactionbutton-1.3.0_c632a8582722f626e70ef9764f31d5a53483c925.jar" />
+    </item>
+    <item
+        jar="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Technologx/Desktop/Android Projects/Fire Bird DashBoard For Zooper/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.0_c3a43f6775cf2b2315ddfbabc214796a59dc78b7.jar" />
+    </item>
+
+</items>

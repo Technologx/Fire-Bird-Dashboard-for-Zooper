@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="light">Light Theme</string>
+    <string name="dark">Dark Theme</string>
+    <string name="close">CLOSE</string>
+    <string name="app_name">DiffroCons</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="apply_wall">Set Wallpaper</string>
+    <string name="description">DiffroCons consist of 4 different weather icon sets.</string>
+    <string name="one_column">One Column</string>
+    <string name="two_column">Two Column</string>
+    <string name="three_column">Three Column</string>
+    <string name="title_activity_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="changelog_title">Changelog</string>
+    <string name="playstore_link">https://play.google.com/store/apps/dev?id=4712980303859595180</string>
+    <string name="googleplus_link">https://plus.google.com/+KevinTechnologx</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1326270243329202~8216923773</string>
+
+
+    <!-- Changelog -->
+    <string name="changelog">
+
+          v1.0\n\n
+
+        &#8226; Welcome to DiffroCons\n
+        &#8226; Nothing new\n
+   </string>
+
+    <string name="apkfilename">diffrocons.apk</string>
+
+
+</resources>
