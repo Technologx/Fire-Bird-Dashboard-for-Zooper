@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fire Bird &#8212; Getting Started</title>
+    <!-- jQuery-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <!-- Compiled and minified CSS-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">
+    <!-- Compiled and minified JavaScript-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/js/materialize.min.js"></script>
+    <!-- Main CSS-->
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#81D4FA">
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+
+<body>
+<header>
+    <nav class="top-nav">
+        <div class="nav-wrapper">
+            <a href="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper" class="page-title">Home</a>
+            <ul id="slide-out" class="side-nav fixed">
+                <li class="active">
+                    <a href="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper" class="waves-effect">Home</a>
+                </li>
+                <li>
+                    <a href="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/gettingstarted.html" class="waves-effect">Getting
+                        Started</a>
+                </li>
+                <li>
+                    <a href="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/homeabout.html" class="waves-effect">Home/About</a>
+                </li>
+                <li>
+                    <a href="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/java.html" class="waves-effect">Java</a>
+                </li>
+                  <li>
+                    <a href="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/log.html" class="waves-effect">Changelog</a>
+                </li>
+                <li>
+                    <a href="https://github.com/Technologx/Fire-Bird-Dashboard-for-Zooper" class="waves-effect" style="color: #BDBDBD">Back
+                        to GitHub</a>
+                </li>
+            </ul>
+            <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+        </div>
+    </nav>
+</header>
+<main class="mainContent">
+    <div class="container">
+
+        <h1>Table of Contents</h1>
+        <ol class="tableofcontents">
+            <li><a href="#downloadingthecode">Downloading the Code</a></li>
+            <li><a href="#importingtheproject">Importing the Project</a></li>
+            <li><a href="#namepackageicon">Name, Package, and Icon</a></li>
+        </ol>
+        <hr/>
+
+        <h1 id="downloadingthecode">Downloading the Code</h1>
+
+        <p class="flow-text">
+            First, you need to download the project to the computer that you use for design/development. There are three
+            ways to do this:
+        <ol>
+            <li>Download a ZIP file from the GitHub repo.</li>
+            <li>Through the GitHub desktop client.</li>
+            <li>Through the Command Prompt (Windows) or Terminal (OSX/Linux).</li>
+        </ol>
+        </p>
+
+        <h5> ZIP Archive</h5>
+
+        <p class="flow-text">
+            If you choose to download a ZIP file, it's pretty straightforward, but harder to keep up to date when things
+            change remotely.
+        </p>
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss4.png" class="app-image-noshadow" width="780px"><br />
+             
+
+        <h5> Desktop Client</h5>
+
+        <p class="flow-text">
+            If you choose to use the GitHub desktop client, this will ask you if you want to open in the desktop client. If you choose desktop client it will ask you the area you want to save this to. After choosing your save area the desktop client will take care of the mess of importing the project for you. Everything will be saved in the directory you chose. It's important to know when I update the main repository, forks of it are not automatically updated. You have to do that yourself.
+        </p>
+
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss5.png" class="app-image-noshadow" width="780px"><br />
+             
+
+        <p class="flow-text">
+            Once you've forked the repository, you can clone your fork from the GitHub desktop client.
+        </p>
+
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss6.png" class="app-image-noshadow" width="780px"><br />
+             
+
+        <h5> Command Prompt/Terminal</h5>
+
+        <p class="flow-text">
+            I don't want to go over all of the specifics of how you setup Git to work from CMD/Terminal, so I will
+            assume anyone
+            that will be using this already understands how to set it up and use it.
+        </p>
+        <p class="flow-text">
+            You don't have to fork the repository, or even login. All that you need is the SSH URL from the main
+            repository.
+        </p>
+
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss7.png" class="app-image-noshadow" width="780px"><br />
+             
+
+        <p class="flow-text">
+            With that SSH URL, you can clone the repository into the current directory using <code>git clone
+            git@github.com:Technologx/Fire-Bird-Dashboard-for-Zooper.git</code>,
+            and you can retrieve repository updates using <code>git pull origin master</code> (although this will
+            generally be messy when you are editing a lot of local files that I also modify remotely).
+        </p>
+
+        <hr/>
+
+        <h1 id="importingtheproject">Importing the Project</h1>
+
+        <p class="flow-text">
+            Importing the downloaded project into Android Studio is relatively simple. There are two different places
+            where you
+            can initialize importation.
+        </p>
+
+        <h5>From the Start Page</h5>
+        <p class="flow-text">
+            If you are on the startup page, you need to import the project as a Gradle project:
+        </p>
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss8.png" class="app-image-noshadow" width="780px"><br />
+             
+
+        <p class="flow-text">
+            Then choose Fire Bird's folder, and click OK:
+        </p>
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss9.png" class="app-image-noshadow" width="780px"><br />
+             
+
+        <h5>From Elsewhere</h5>
+        <p class="flow-text">
+            If you already have another project open, you can import a project like this:
+        </p>
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss10.png" class="app-image-noshadow" width="780px"><br />
+            
+        <p class="flow-text">
+            You select a project folder to import the same way you would above. It will ask you if you want to open the
+            project
+            in the current window, or a new window.
+        </p>
+
+        <hr/>
+
+        <h1 id="namepackageicon">Name, Package, and Icon</h1>
+
+        <p class="flow-text">
+            First, you need to change the name of the dashboard to the name of your icon pack. This can be done from
+            <code>/res/values/strings.xml</code>
+            as seen in the image below. Make sure you update the first two strings to replace "Polar". The second is
+            used in Muzei.
+        </p><img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss11.png" class="app-image-noshadow" width="780px"><br />
+                 
+
+        <p class="flow-text">
+            Your launcher (home screen) icon goes into the <code>mipmap</code> prefixed folders in <code>/res</code>.
+        </p>
+        <img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss12.png" class="app-image-noshadow" width="780px"><br />
+
+        <p class="flow-text">
+            You will also need to update your <code>applicationId</code> (your pack's unique identifier which will also
+            be used on Google Play)
+            in <code>/app/build.gradle</code>. It is however possible that the refactoring step from the Getting Started
+            page updated this for you already.
+            You also manage your app's version (<code>versionCode</code> and <code>versionName</code>) from this file.
+        </p><img src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/ss13.png" class="app-image" width="780px"><br />
+
+    </div>
+</main>
+<script src="//technologx.github.io/Fire-Bird-Dashboard-for-Zooper/init.js" type="text/javascript"></script>
+</body>
+
+</html>
